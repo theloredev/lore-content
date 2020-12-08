@@ -1,8 +1,7 @@
 ---
 title: System Architecture
+sidebar_label: System Architecture
 ---
-
-# System Architecture
 
 > "Architecture is about the important stuff. Whatever that is" - Ralph Johnson
 
