@@ -1,7 +1,7 @@
 ---
 id: database
 title: Database
-sidebar_label: database
+sidebar_label: Database
 ---
 
 > "Once the business data have been centralized and integrated, the value of the database is greater than the sum of the preexisting parts." - Larry Ellison, Oracle founder
