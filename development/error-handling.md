@@ -61,7 +61,7 @@ When an error happens, you as the developer will want to know as much detailed i
 
 There are some monitoring tools that you can easily integrate your application with, where you will leverage some benefits of having all of that detailed information out-of-the-box.
 
-| ![](assets/error-handling/rollbar.png) |
+| ![](assets/development/error-handling/rollbar.png) |
 |:--:|
 | *Credit: sample screenshot of the [Rollbar](https://rollbar.com/) monitoring tool* |
 
