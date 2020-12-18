@@ -35,7 +35,7 @@ Data is Created, Read, Updated, and Deleted (CRUD) from a relational database vi
 
 ### Stored Procedures and Stored Functions
 
-When used properly, stored procedures and stored functions offer a number of advantages, including protection against security risks such as SQL injection, access to advanced and rapid numerical data analysis functionality, and the ability to isolate code functionality (see [Separation of Concerns](development/writing-code.md#separation-of-concerns)).
+When used properly, stored procedures and stored functions offer a number of advantages, including protection against security risks such as SQL injection, access to advanced and rapid numerical data analysis functionality, and the ability to isolate code functionality (see [Separation of Concerns](/development/writing-code.md#separation-of-concerns)).
 
 In many cases, stored procedures and stored functions can improve speed and performance because the procedure or function is *"cached in the server memory and its execution is much faster than dynamic SQL"*, [{codng}Sight](https://codingsight.com/dynamic-sql-vs-stored-procedure/#:~:text=Stored%20procedures%20beat%20dynamic%20SQL,stored%20procedure%20outperforms%20dynamic%20SQL.). This is particularly true for complex, resource-intensive SQL queries and operations.
 
@@ -108,7 +108,7 @@ END update_case_file;
 
 #### Naming conventions for stored procedures and functions
 
-There is no universally accepted naming convention for stored procedures and functions. You should choose a [naming convention](development/writing-code.md#define-and-keep-a-consistent-style-guide) that fits your team, system, and organization. The 3 most important details to remember are the following:
+There is no universally accepted naming convention for stored procedures and functions. You should choose a [naming convention](/development/writing-code.md#define-and-keep-a-consistent-style-guide) that fits your team, system, and organization. The 3 most important details to remember are the following:
 
 - A naming convention must be chosen.
 - The naming convention must be enforced.
