@@ -116,10 +116,4 @@ sidebar_label: Communication
     - (e.g. git commit -m 'feat(CoreSkills/Communication): so communication is published under Core Skills)
 3. Push to the official repo 
     - git push origin feat/CoreSkills/Communication
-
-4. If you haven't already, make sure to complete the CLA [here](https://docs.google.com/document/d/1P3_k3xgkcaGwn-v9I-qZWc1MnYZZXasb4RDEuuiNLmc/edit?usp=sharing). 
-5. Open your Pull request :) 
-
-## Contributor License Agreement (CLA)
-
-To accept your pull request, we need you to submit a CLA. CLA completion is only required once. If you haven't done yet, complete here by clicking [here](https://docs.google.com/document/d/1P3_k3xgkcaGwn-v9I-qZWc1MnYZZXasb4RDEuuiNLmc/edit?usp=sharing) and we will check it with your GitHub username. 
+4. Open your Pull request :) 
