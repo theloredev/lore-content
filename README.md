@@ -116,4 +116,9 @@ sidebar_label: Communication
     - (e.g. git commit -m 'feat(CoreSkills/Communication): so communication is published under Core Skills)
 3. Push to the official repo 
     - git push origin feat/CoreSkills/Communication
-4. Open your Pull request :) 
+4. Open your Pull request :)   
+
+
+# Conventional Commits  
+
+Lore's contributions follow the conventional commits. For full documentation on their naming structure please refer to their [website](https://www.conventionalcommits.org/en/v1.0.0/). 
