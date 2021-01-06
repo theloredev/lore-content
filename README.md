@@ -1,3 +1,9 @@
+---
+id: contributor-guide
+title: Contributor Guide
+sidebar_label: Contributor Guide
+---
+
 ## What is Lore? 
 
 Lore is an open-source guide of best practices, techniques, and standards. It's written by developers, for developers of all technologies. The knowledge found within this guide is applied abstractly for individuals across a broad array of contexts. This document aims to make the process of contributing clear and answer questions you may have. 
