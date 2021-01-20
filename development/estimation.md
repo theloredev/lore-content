@@ -4,7 +4,7 @@ title: Estimation
 sidebar_label: Estimation
 ---
 
-One of the most critical skills that developers should build is the ability to break down a problem and predict how long implementing a solution will take or how much it will cost. These predictions are usually called "estimates," and are a fundamental piece to the success of any project.
+One of the most critical skills that developers should build is breaking down a problem and predicting how long implementing a solution will take or how much it will cost. These predictions are usually called "estimates" and are a fundamental piece to any project's success.
 
 The first step to improve your ability to estimate software is to understand the context in which an estimate is required. Think about three different concepts that are used interchangeably, but mean different things:
 
@@ -16,7 +16,7 @@ Mixing these concepts can cause significant misunderstandings. As a developer, u
 
 ## Ensure everyone is speaking the same language
 
-An inevitable characteristic of an estimate is its inherent level of uncertainty. Communicating this and ensuring everyone interprets it the same way is challenging, and a significant opportunity for miscommunication.
+An inevitable characteristic of an estimate is its inherent level of uncertainty. Communicating this and ensuring everyone interprets it the same way is challenging and a significant opportunity for miscommunication.
 
 Here are some ways you can ensure that estimates are properly interpreted:
 
@@ -27,15 +27,15 @@ Here are some ways you can ensure that estimates are properly interpreted:
 
 ## The Cone of Uncertainty
 
-All software projects go through multiple stages from their inception through completion. When starting a project, we have most of the decisions related to tackling new functionality in front of us, so the uncertainty related to how we are going to address them is substantial. As the project moves along and we put those decisions behind us, the accuracy of our estimates will increase.
+All software projects go through multiple stages from their inception through completion. When starting a project, we have most of the decisions related to tackling new functionality in front of us, so the uncertainty related to how we are going to address them is substantial. As the project moves along and we put those decisions behind us, our estimates' accuracy will increase.
 
-The Cone of Uncertainty is an interesting way to represent how the accuracy of our estimates changes as we progress through the different stages of a project.
+The Cone of Uncertainty is an interesting way to represent how our estimates' accuracy changes as we progress through the different stages of a project.
 
 | ![](assets/development/estimation/cone-of-uncertainty.jpg) |
 |:--:|
-| *Credit: <https://www.construx.com/books/the-cone-of-uncertainty>* |
+| *Credit:  <a href="https://www.construx.com/books/the-cone-of-uncertainty" target="_blank"><https://www.construx.com/books/the-cone-of-uncertainty></a>* |
 
-Keep in mind that the Cone of Uncertainty shows the best possible accuracy that you can achieve at any stage of the project. For example, by the time you complete gathering the requirements of your system, the range of uncertainty should go from 0.67x to 1.5x the estimated time or budget. Let's say you are thinking of around 12 weeks to complete the project, using the Cone of Uncertainty; you should be prepared to communicate a timeline between 8 and 18 weeks.
+Keep in mind that the Cone of Uncertainty shows the best possible accuracy that you can achieve at any project stage. For example, by the time you complete gathering your system's requirements, the range of uncertainty should go from 0.67x to 1.5x the estimated time or budget. Let's say you are thinking of around 12 weeks to complete the project, using the Cone of Uncertainty; you should be prepared to communicate a timeline between 8 and 18 weeks.
 
 The Cone of Uncertainty gives you the best possible case to complete your project. Keep in mind that you can still do much worse than that, depending on how the project is managed.
 
@@ -43,7 +43,7 @@ The Cone of Uncertainty gives you the best possible case to complete your projec
 
 There are different estimation techniques that you can use in different circumstances. Knowing these and understanding when to apply them is a great way to reduce estimation errors. 
 
-Regardless of the way you approach your estimates, keep in mind that the person or team responsible for handling a task will have the most insight into the necessary work, so whenever possible, try to actively participate in any estimation sessions for tasks that will eventually land on your plate.
+Regardless of how you approach your estimates, keep in mind that the person/team responsible for handling a task will have the most insight into the necessary work. Try to actively participate in any estimation sessions for tasks that will eventually land on your plate.
 
 Unfortunately, it is not always possible to have individual team members contribute to the project's estimate. In cases like this, you'll be given an estimate that you didn't create, so you'll need to adapt your approach to meet any commitments or deadlines attached to the estimate.
 
@@ -59,26 +59,26 @@ Aim to break large tasks to a level that you can easily understand. It's hard to
 
 ### Estimation by analogy
 
-When you take a problem, break it down, and come up with an estimate based on the similarities with a previous problem you solved, you are estimating by analogy.
+When you take a problem, break it down, and come up with an estimate based on the similarities with a previous problem you solved, you estimate by analogy.
 
 Estimating by analogy requires experience. The more projects in your resume, the easier it will be to find similarities that will aid in coming up with a solid estimate for any new challenge.
 
-Estimating by analogy can also introduce a lot of errors. To achieve good results, you should use accurate information about past projects. It's usually not enough to rely on a vague memory of how difficult something was, but instead, you need specifics on how long things took, and how many people were needed.
+Estimating by analogy can also introduce a lot of errors. To achieve good results, you should use accurate information about past projects. It's usually not enough to rely on a vague memory of how difficult something was, but instead, you need specifics on how long each task was and how many people were needed.
 
-You should also make sure you break the project or tasks into smaller units that you can use to compare with your previous experience. Don't just come up with an estimate between two projects because they are similar, but instead, compare the individual pieces, and build up the new estimate as a percentage of the old project.
+You should also make sure you break the project or tasks into smaller units that you can use to compare with your previous experience. Don't just come up with an estimate between two projects because they are similar, but instead, compare the individual pieces and build up the new estimate as a percentage of the old project.
 
 ### Story Points
 
 If you work for a company that uses agile methodologies to run their projects, you are most likely familiar with Story Points. 
 
-Estimating using Story Points is classified as part of the "Proxy-Based Estimation" technique. In this case, the concept of a Story Point (or Ideal Hours or Days on other methodologies) is a proxy that's correlated to the time, which is the actual variable you want to estimate.
+Estimating using Story Points is classified as part of the "Proxy-Based Estimation" technique. In this case, the concept of a Story Point (or Ideal Hours or Days on other methodologies) is a proxy correlated to the time, which is the actual variable you want to estimate.
 
-Once you've found your proxy (in this case, the number of Story Points), you can quickly come up with a time estimate for your project.
+Once you've found your proxy (in this case, the number of Story Points), you can quickly develop a time estimate for your project.
 
 A widespread practice is to use the Fibonacci Sequence to measure tasks in Story Points. For example, each task or "story" (as described by agile methodologies) would be given one of the following estimates: 1, 2, 3, 5, 8, 13, 21, etc. Notice how this differs from assigning plain hours to tasks. The larger the stories get, the more variability exists between one estimate and the next value in the sequence. This helps represent the inherent ambiguity and uncertainty of larger tasks.
 
-Another standard practice used in agile methodologies is estimating in T-shirt sizes. When coming up with an estimate for large pieces of functionality, this is useful when breaking the work into smaller units is not practical nor undesirable. In this case, you would classify each feature into SMALL, MEDIUM, LARGE, or X-LARGE buckets.
+Another standard practice used in agile methodologies is estimating using T-shirt sizes as a reference. When coming up with an estimate for large pieces of functionality, this is useful when breaking the work into smaller units is not practical nor undesirable. In this case, you would classify each feature into SMALL, MEDIUM, LARGE, or X-LARGE buckets.
 
-After having an estimate using the proxy metric, the final piece is to translate it into the desired time unit, for example, hours or days. This is done through the concept of "velocity;" which represents how many story points the team can complete in a sprint. 
+After having an estimate using the proxy metric, the final piece is to translate it into the desired time unit, for example, hours or days. This is done through the concept of "velocity;" representing how many story points the team can complete in a sprint. 
 
-As an example, if the team can complete between 40 and 50 story points every two weeks, a 300-story point project should take approximately 12 to 15 weeks (300/50*2 to 300/40*2).
+For example, if the team can complete between 40 and 50 story points every two weeks, a 300-story point project should take approximately 12 to 15 weeks (300/50*2 to 300/40*2).
