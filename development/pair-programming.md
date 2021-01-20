@@ -8,7 +8,7 @@ Pair Programming is a relatively new agile-centric method for writing code with 
 
 Many startups and companies have recently picked up the practice. Some of them going as far as to require an hour of pair programming a day. It is a developing practice; some companies may still offer resistance to this method.
 
-Pair programming has been shown to decrease bugs by 15%, at the added cost of adding 15% to development time (<a href="https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF" target="_blank">https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF</a>. Whether or not an employer will justify the cost is based on their company culture and development timeline. On a tight timeline, there may be less time allocated to pair programming. Once again, it's all about being able to adapt to a situation. 
+Pair programming has been shown to decrease bugs by 15%, at the added cost of adding 15% to development time <a href="https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF" target="_blank">decrease bugs by 15%, at the added cost of adding 15% to development time</a>. Whether or not an employer will justify the cost is based on their company culture and development timeline. On a tight timeline, there may be less time allocated to pair programming. Once again, it's all about being able to adapt to a situation. 
 
 ## The Driver
 
