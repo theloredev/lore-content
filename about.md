@@ -18,10 +18,10 @@ Junior, Intermediate, and Senior developers :)
 Anyone that seeks to learn and become a better software developer can benefit from reading/contributing to Lore.  
 
 ## Team
-  - Daniel Alcanja
-  - Dhyego Calota
-  - Alex K
-  - Samuel Oliveira
+  - Daniel Alcanja <a href="https://github.com/danielalcanja" target="_blank">@danielalcanja</a>
+  - Dhyego Calota <a href="https://github.com/dhyegocalota" target="_blank">@dhyegocalota</a>
+  - Alex K <a href="https://github.com/ak68a" target="_blank">@ak68a</a>
+  - Samuel Oliveira <a href="https://github.com/samvso" target="_blank">@samvso</a>
 
 - Community Contributions (https://github.com/theloredev/lore-content)
 
