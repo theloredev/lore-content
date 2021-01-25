@@ -178,7 +178,7 @@ Let's look at some of the methods available for conducting User Acceptance Testi
  
         - For example, a software application developed for the telecommunications industry may be reviewed by an experienced engineer to ensure compliance with Federal Communications Commissions (FCC) regulations. 
  
-        - "Regulation Acceptance Testing, also known as Compliance Acceptance Testing, examines whether the software complies with the regulations. This includes governmental and legal regulations." [5 Types Of User Acceptance Testing](https://usersnap.com/blog/types-user-acceptance-tests-frameworks/)
+        - "Regulation Acceptance Testing, also known as Compliance Acceptance Testing, examines whether the software complies with the regulations. This includes governmental and legal regulations." <a href="https://usersnap.com/blog/types-user-acceptance-tests-frameworks/" target="_blank">5 Types Of User Acceptance Testing</a>  
 
 - Operational Acceptance Testing
 
