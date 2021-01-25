@@ -78,7 +78,7 @@ When should I provide updates:
 - For larger tasks, providing a daily update with an estimated "percentage completed"
 - [When I'm stuck on something I'm doing](#communicating-issues-to-teammates), and I see that there's a potential delay
 - When I need to run a build or deployment to an environment
-- When I complete a task, and my changes are ready for [code review](#code-review)
+- When I complete a task, and my changes are ready for code review
 - In a leadership/decision-making role. A previous decision needs to be changed. Such as an API your development team is relying on
 - When your availability is changing, including:
     - Short term changes: a doctor appointment in the afternoon or taking a Friday off
@@ -93,7 +93,7 @@ One of the most important skills an engineer can have is the ability to ask the 
 
 When there is a lack of clarity with requirements, it is essential not to make assumptions. If you are not sure that what you are building will 100% fulfill the task's requirements, don't be afraid to ask. Great developers build with the end goal in mind and ask questions about requirements when it is not clear.
 
-For example, your project/product manager comes up with a new feature that they want to add in the next sprint. In the requirements, they specify [third-party integrations](https://gbksoft.com/blog/third-party-integration/) and tools you should use. Be sure to ask questions on why they made those choices. If you have a better solution, tell them. Great engineers ask questions and constructively provide their feedback. 
+For example, your project/product manager comes up with a new feature that they want to add in the next sprint. In the requirements, they specify <a href="https://gbksoft.com/blog/third-party-integration/" target="_blank">third-party integrations</a> and tools you should use. Be sure to ask questions on why they made those choices. If you have a better solution, tell them. Great engineers ask questions and constructively provide their feedback. 
 
 You could encounter a situation where you receive design files from a designer but have an alternative solution in mind for building a particular screen that takes into consideration certain factors the designer wasn't aware of, such as performance or ease of use. Do not be afraid to bring up your thoughts, questions, or concerns to designers or project managers when it comes to the UI/UX of a feature or the project as a whole.
 
