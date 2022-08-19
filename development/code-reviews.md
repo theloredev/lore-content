@@ -4,8 +4,6 @@ title: Code Reviews
 sidebar_label: Code Reviews
 ---
 
-# Background
-
 Code Review is an important software quality assurance activity. In Code Reviews, the code’s author requests reviews from other Engineers to ensure that the given source code follows the expected quality to be deployed. The first well-known Code Review Process was called the [Fagan inspection](https://www.professionalqa.com/fagan-inspection) created by Michael Fagan.
 
 Trio has its own Code Review Guideline to identify code quality. Trio is a very technical company and we must ensure that our engineers are able to provide excellent code reviews in external and internal projects.
