@@ -148,3 +148,5 @@ Suggestion:
 ## You won't be slower!
 
 ## Improve your writing skills
+
+## Design right after understanding completely the given requirements
