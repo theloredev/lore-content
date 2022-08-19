@@ -524,6 +524,8 @@ The most common attacks for web development are:
 - [Improper Error Handling](https://owasp.org/www-community/Improper_Error_Handling)
 - [Cross Site Request Forgery](https://owasp.org/www-community/attacks/csrf)
 
+You can also read more inside of Lore on the [Development | Security](https://lore.dev/development/security) page.
+
 # Tips to make you a better Code Reviewer
 
 ## No rush
